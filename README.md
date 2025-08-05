@@ -1,2 +1,4 @@
 # echarts-gui
-echarts-gui This will be completed later.
+This project will be completed within several months.
+
+//TODO:
